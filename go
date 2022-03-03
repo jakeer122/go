@@ -7,6 +7,6 @@ pipeline {
         GO111MODULE = 'on'
     }
     stages {
-        ...
+
     }
 }
